@@ -1,0 +1,7 @@
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\bin\Debug\Server.exe.config
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\bin\Debug\Server.exe
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\bin\Debug\Server.pdb
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\obj\Debug\Server.exe
+\\Keenetic-9922\внешний диск\сетевое программирование\Transmission control protocol\Server\obj\Debug\Server.pdb

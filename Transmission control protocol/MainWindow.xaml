@@ -1,0 +1,17 @@
+﻿<Window x:Class="Transmission_control_protocol.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Transmission_control_protocol"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="button" Margin="0, 0, 400, 360" Height="30" Click="button_Click">файл</Button>
+        <Button Name="button_" Margin="400, 0, 0, 360" Height="30" Click="button__Click">отправить</Button>
+        <TextBlock Name="file_name" Margin="0, 130, 700, 200" Height="30">имя файла</TextBlock>
+        <TextBlock Name="name" Margin="100, 90, 400, 200" Height="30"></TextBlock>
+        <TextBlock Name="file_size" Margin="0, 200, 700, 150" Height="30">размер файла</TextBlock>
+        <TextBlock Name="size" Margin="100, 200, 400, 150" Height="30"></TextBlock>
+    </Grid>
+</Window>
